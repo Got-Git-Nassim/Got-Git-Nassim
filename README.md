@@ -55,6 +55,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Got-Git-Nassim/Got-Git-Nassim/output/snake.svg" alt="Snake animation" />
 
 ###
